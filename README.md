@@ -12,7 +12,7 @@ I'm a researcher and academic at **Universidade Federal do Recôncavo da Bahia**
 ![Smart Cities](https://img.shields.io/badge/Research-Smart%20Cities-4ECDC4?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![IoT](https://img.shields.io/badge/Research-IoT-2ECC71?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Research-Machine%20Learning-F39C12?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FPGA](https://img.shields.io/badge/Research-FPGA%20Development-E74C3C?style=for-the-badge&logo=verilog&logoColor=white)
+![FPGA](https://img.shields.io/badge/Research-FPGA-E74C3C?style=for-the-badge&logo=verilog&logoColor=white)
 
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="City" width="20" height="20" style="vertical-align: middle;" /> **Smart Cities** and intelligent urban solutions
 -   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="IoT" width="20" height="20" style="vertical-align: middle;" /> **IoT & Sensor Networks** for urban monitoring and mobility
